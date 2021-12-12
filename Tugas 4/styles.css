@@ -1,0 +1,14 @@
+body {
+  margin:0 auto;
+    background-color:#30E3CA;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted white;
+  width:50px;
+}
+
+.judul {
+  color: pink;
+}
